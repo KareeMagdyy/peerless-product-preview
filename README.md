@@ -14,6 +14,6 @@ https://kareem-task.netlify.app/
 
 ![Mobile](https://raw.githubusercontent.com/KareeMagdyy/peerless-product-preview/main/images/Mobile.png)
 
-## Authors
+## Author
 
 - [@KareeMagdyy](https://github.com/KareeMagdyy)
